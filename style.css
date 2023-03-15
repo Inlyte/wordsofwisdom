@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">body {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: Arial, sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-color: #3c3f41;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: #f5f5f5;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>justify-content: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>height: 100vh;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.container {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>max-width: 500px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">h1 {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 2.5rem;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">p {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 1.2rem;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">@keyframes shake {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>0% { transform: translate(1px, 1px) rotate(0deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>10% { transform: translate(-1px, -2px) rotate(-1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>20% { transform: translate(-3px, 0px) rotate(1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>30% { transform: translate(3px, 2px) rotate(0deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>40% { transform: translate(1px, -1px) rotate(1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>50% { transform: translate(-1px, 2px) rotate(-1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>60% { transform: translate(-3px, 1px) rotate(0deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>70% { transform: translate(3px, 1px) rotate(-1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>80% { transform: translate(-1px, -1px) rotate(1deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>90% { transform: translate(1px, 2px) rotate(0deg); }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>100% { transform: translate(1px, -2px) rotate(-1deg); }</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.shaking {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>animation: shake 0.1s infinite;</p>
+<p class="p1">}</p>
+</body>
+</html>
